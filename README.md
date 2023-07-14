@@ -18,4 +18,4 @@ The following functionalities are provided by the web application: </br>
 1. Transfer Money
 1. View Transaction History
 
-[Link to demonstration of website](https://www.linkedin.com/posts/jahnavi-mulchandani-7b40011b8_task1-gripaugust21-griptask-activity-6834178409845846016-2RWQ)
+Link to demonstration of website : https://www.linkedin.com/posts/jahnavi-mulchandani_task1-gripaugust21-griptask-activity-6834178409845846016-R4yM?utm_source=share&utm_medium=member_desktop
